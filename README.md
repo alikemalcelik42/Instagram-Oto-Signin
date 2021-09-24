@@ -5,6 +5,7 @@ Oto sign in to Instagram using Selenium and Python 3.9.6.
 You can install libraries using pip.
 ```
 pip install selenium
+pip install webdriver-manager
 ```
 
 And you can run program using python.
